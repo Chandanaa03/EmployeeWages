@@ -14,6 +14,7 @@ namespace Employeewages_Day3
         static void Main (string[] args)
         {
             Console.WriteLine("Welcome to employee wage program");
+            employeecheck.Employeeattendence();
         }
 }
 
