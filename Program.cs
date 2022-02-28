@@ -16,7 +16,9 @@ namespace Employeewages_Day3
             Console.WriteLine("Welcome to employee wage program");
             //employeecheck.Employeeattendence();
 
-            empwage.Employeewages();
+            //empwage.Employeewages();
+
+            empswitch.Employeeswitchcase();
         }
 }
 
