@@ -18,7 +18,12 @@ namespace Employeewages_Day3
 
             //empwage.Employeewages();
 
-            empswitch.Employeeswitchcase();
+            //empswitch.Employeeswitchcase();
+
+            // maxworkingday.workingday();
+            calculatewages.calculate_wage();
+
+            
         }
 }
 
